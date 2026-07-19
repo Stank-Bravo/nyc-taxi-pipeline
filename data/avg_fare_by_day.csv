@@ -1,0 +1,3 @@
+day_type,avg(fare_amount),avg(trip_duration_mins)
+Weekday,18.614434949028457,15.31977653298396
+Weekend,17.839002642017174,13.621378428789786
